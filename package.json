@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vtquan123/portfolio.github.io.git"
+    "url": "git+https://github.com/tranpduy26/TPD-MyPortfolio"
   },
   "author": "Vu Quan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vtquan123/portfolio.github.io/issues"
+    "url": "https://github.com/tranpduy26/TPD-MyPortfolio"
   },
-  "homepage": "https://github.com/Vtquan123/portfolio.github.io#readme",
+  "homepage": "https://github.com/tranpduy26/TPD-MyPortfolio",
   "dependencies": {
     "animate.css": "^4.1.1",
     "materialize-css": "^1.0.0-rc.2",
